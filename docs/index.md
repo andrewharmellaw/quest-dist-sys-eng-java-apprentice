@@ -21,3 +21,4 @@
   * [SKILL: IDE - IntelliJ IDEA (Apprentice Developer)](./skill-ide-intellij-idea-apprentice-dev)
   * [SKILL: Persistence (Relational) - MySQL (Apprentice Developer)](./skill-persistence-relational-mysql-apprentice-dev)
 
+
