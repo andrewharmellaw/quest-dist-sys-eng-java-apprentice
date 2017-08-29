@@ -23,7 +23,7 @@
     "skill-xp-apprentice-dev": "github:andrewharmellaw/skill-xp-apprentice-dev"
   },
   "devDependencies": {
-    "doc-publisher": "^0.1.15",
+    "doc-publisher": "^0.2.3",
     "pkginfo": "^0.4.0"
   },
   "main": "app.js",
