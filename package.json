@@ -22,6 +22,9 @@
     "skill-unix-apprentice-user": "github:andrewharmellaw/skill-unix-apprentice-user",
     "skill-xp-apprentice-dev": "github:andrewharmellaw/skill-xp-apprentice-dev"
   },
+  "devDependencies": {
+    "binder": "github:gwolverson/binder"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
