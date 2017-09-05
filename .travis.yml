@@ -10,7 +10,7 @@ script:
   - npm version minor --no-git-tag-version
   - binder publish-quest
 after_success:
-  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && ./.travis/release-new-site-version.sh
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && ./.travis/push-changes-to-master.sh
 notifications:
   email:
     recipients:
